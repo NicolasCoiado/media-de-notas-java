@@ -1,2 +1,2 @@
-# media-de-notas-java
-Faça um Programa que converta metros para centímetros.
+# Media de Notas
+Faça um Programa que peça as 4 notas bimestrais e mostre a média.
